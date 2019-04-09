@@ -16,4 +16,4 @@ Currently, I am working on modeling animal decision making in complex tasks and 
 
 
 ### News
-[03/15] I presented our work on [automated training and iterative latent strategy inference](https://www.biorxiv.org/content/10.1101/467878v1) at the [SoCal ML Symposium](https://sites.google.com/view/socalml2019)
+[03/2019] I presented our work on [automated training and iterative latent strategy inference](https://www.biorxiv.org/content/10.1101/467878v1) at the [SoCal ML Symposium](https://sites.google.com/view/socalml2019)
