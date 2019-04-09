@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tony Zhang"
 title_separator          : "-"
 name                     : &name "Tony Zhang"
-description              : &description "PhD Student, Caltech"
+description              : &description "PhD Student, Computation and Neural Systems, Caltech"
 url                      : https://tonyzhang25.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tonyzhang25.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : tonyzhang_
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Tony Zhang"
   avatar           : "profile.png"
-  bio              : "PhD Student, Caltech"
-  location         : "Pasadena, California"
+  bio              : "PhD Student, Computation and Neural Systems, California Institute of Technology"
+  location         :
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=LfIYgUYAAAAJ&hl=en"
