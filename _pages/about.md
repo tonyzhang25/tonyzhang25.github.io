@@ -17,3 +17,8 @@ Currently, I am working on modeling animal decision making in complex tasks and 
 
 ### News
 [03/2019] I presented our work on [automated training and iterative latent strategy inference](https://www.biorxiv.org/content/10.1101/467878v1) at the [SoCal Machine Learning Symposium](https://sites.google.com/view/socalml2019)
+
+### Preprint
+
+#### [Mouse Academy: high-throughput automated training and trial-by-trial behavioral analysis during learning](https://www.biorxiv.org/content/10.1101/467878v1)
+Qiao, M., Zhang, T., Segalin, C., Sam, S., Perona, P, Meister, M.
