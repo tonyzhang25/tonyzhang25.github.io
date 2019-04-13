@@ -21,5 +21,5 @@ Currently, I am working on modeling animal decision making in complex tasks and 
 
 
 ## Preprint
-### [Mouse Academy: high-throughput automated training and trial-by-trial behavioral analysis during learning](https://www.biorxiv.org/content/10.1101/467878v1)
+[**Mouse Academy: high-throughput automated training and trial-by-trial behavioral analysis during learning**](https://www.biorxiv.org/content/10.1101/467878v1)
 Qiao, M., Zhang, T., Segalin, C., Sam, S., Perona, P, Meister, M.
