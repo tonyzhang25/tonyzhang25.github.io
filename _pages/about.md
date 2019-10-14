@@ -17,6 +17,8 @@ Currently, I am working on modeling animal decision making in complex tasks and 
 
 
 ## News
+[10/2019] Our work on rapid learning and intrinsic motivated exploration in complex maze environments for mice has been accepted to the [NeurIPS Biological and Artificial Reinforcement Learning workshop](https://sites.google.com/view/biologicalandartificialrl)
+
 [03/2019] I presented our work on [automated training and iterative latent strategy inference](https://www.biorxiv.org/content/10.1101/467878v1) at the [SoCal Machine Learning Symposium](https://sites.google.com/view/socalml2019)
 
 
