@@ -28,7 +28,7 @@ Previous to Caltech in my undergrad, I worked with various organizations interna
 
 ## Preprints / Workshops
 [**Rapid learning and efficient exploration by mice navigating a complex maze**](https://sites.google.com/view/biologicalandartificialrl)  
-Matthew  Rosenberg*, Tony Zhang*, Pietro Perona, Markus Meister
+Matthew  Rosenberg\*, Tony Zhang\*, Pietro Perona, Markus Meister
 
 [**Mouse Academy: high-throughput automated training and trial-by-trial behavioral analysis during learning**](https://www.biorxiv.org/content/10.1101/467878v1)  
 Mu Qiao, Tony Zhang, Cristina Segalin, Sarah Sam, Pietro Perona, Markus Meister
