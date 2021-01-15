@@ -33,7 +33,7 @@ Previous to Caltech in my undergrad, I worked with various organizations interna
 
 [**Mice in a labyrinth: Rapid learning, sudden insight, and efficient exploration**](https://www.biorxiv.org/content/10.1101/2021.01.14.426746v1)  
 Matthew  Rosenberg\*, Tony Zhang\*, Pietro Perona, Markus Meister
-[Preprint]((https://www.biorxiv.org/content/10.1101/2021.01.14.426746v1)
+[Preprint](https://www.biorxiv.org/content/10.1101/2021.01.14.426746v1)
 
 [**Rapid learning and efficient exploration by mice navigating a complex maze**](https://sites.google.com/view/biologicalandartificialrl)  
 Matthew  Rosenberg\*, Tony Zhang\*, Pietro Perona, Markus Meister
