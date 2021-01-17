@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tony Zhang"
 title_separator          : "-"
 name                     : &name "Tony Zhang"
-description              : &description "PhD Student, Computation & Neural Systems, Caltech"
+description              : &description "PhD Candidate, Computation & Neural Systems, Caltech"
 url                      : https://tonyzhang25.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tonyzhang25.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tony Zhang"
   avatar           : "profile.jpg"
-  bio              : "PhD Student, Computation & Neural Systems, California Institute of Technology"
+  bio              : "PhD Candidate, Computation & Neural Systems, California Institute of Technology"
   location         :
   employer         :
   pubmed           :
