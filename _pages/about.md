@@ -33,6 +33,7 @@ Previous to Caltech in my undergrad, I worked with various organizations interna
 
 ## Publications
 
+![](/images/mouse_academy.png)
 <img src="https://github.com/tonyzhang25/tonyzhang25.github.io/blob/master/images/mouse_academy.png" alt="drawing" height="200"/>
 
 **Mice in a labyrinth: Rapid learning, sudden insight, and efficient exploration**  
