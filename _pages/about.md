@@ -20,15 +20,15 @@ Previous to Caltech in my undergrad, I worked with various organizations interna
 
 ## News
 
-**1/2021**: Our first full report characterizing and modeling [few-shot learning and efficient exploration in a complex hierarchical maze](https://www.biorxiv.org/content/10.1101/2021.01.14.426746v1) is out on arxiv.
+**1/2021**:  Our first full report characterizing and modeling [few-shot learning and efficient exploration in a complex hierarchical maze](https://www.biorxiv.org/content/10.1101/2021.01.14.426746v1) is out on arxiv.
 
-**9/2020** I've returned to Caltech full-time while remaining the ML Lead for a confidential Google X project part-time.
+**9/2020**: I've returned to Caltech full-time while remaining the ML Lead for a confidential Google X project part-time.
 
-**6/2020** I joined Google X as a AI Resident, continuing work on ML for behavior with multiple modalities.
+**6/2020**: I joined Google X as a AI Resident, continuing work on ML for behavior with multiple modalities.
 
-**10/2019** Our work on rapid learning and intrinsic motivated exploration in complex maze environments for mice has been accepted to the [NeurIPS Biological and Artificial Reinforcement Learning workshop](https://sites.google.com/view/biologicalandartificialrl)
+**10/2019**: Our work on rapid learning and intrinsic motivated exploration in complex maze environments for mice has been accepted to the [NeurIPS Biological and Artificial Reinforcement Learning workshop](https://sites.google.com/view/biologicalandartificialrl)
 
-**3/2019** I presented our work on [automated training and iterative latent strategy inference](https://www.biorxiv.org/content/10.1101/467878v1) at the [SoCal Machine Learning Symposium](https://sites.google.com/view/socalml2019)
+**3/2019**: I presented our work on [automated training and iterative latent strategy inference](https://www.biorxiv.org/content/10.1101/467878v1) at the [SoCal Machine Learning Symposium](https://sites.google.com/view/socalml2019)
 
 
 ## Publications
@@ -36,23 +36,19 @@ Previous to Caltech in my undergrad, I worked with various organizations interna
 
 **Mice in a labyrinth: Rapid learning, sudden insight, and efficient exploration**  
 Matthew  Rosenberg\*, Tony Zhang\*, Pietro Perona, Markus Meister  
-In Submission. [Preprint](https://www.biorxiv.org/content/10.1101/2021.01.14.426746v1){: .btn}
-
+*In Submission.* [[Preprint]](https://www.biorxiv.org/content/10.1101/2021.01.14.426746v1).  
 <img src="/images/maze_models.png"  width="367"  height="150">
 
 **Semi-Supervised Audio Representation Learning for Modeling Beehive Strengths**  
 Tony Zhang, Szymon Zmyslony, Sergei Nozdrenkov, Matthew Smith, Brandon Hopkins  
-In Submission.
-
+*In Submission.*  
 <img src="/images/bee.png"  width="258"  height="150">
 
 **Rapid learning and efficient exploration by mice navigating a complex maze**  
 Matthew  Rosenberg\*, Tony Zhang\*, Pietro Perona, Markus Meister  
-[NeurIPS '19 Biological and Artificial Reinforcement Learning Workshop](https://sites.google.com/view/biologicalandartificialrl/home?authuser=0)
-
+[NeurIPS 2019 Biological and Artificial Reinforcement Learning Workshop](https://sites.google.com/view/biologicalandartificialrl/home?authuser=0)
 
 **Mouse Academy: high-throughput automated training and trial-by-trial behavioral analysis during learning**  
 Mu Qiao, Tony Zhang, Cristina Segalin, Sarah Sam, Pietro Perona, Markus Meister  
-[SoCal ML Symposium '19](https://sites.google.com/view/socalml2019)  [[Preprint](https://www.biorxiv.org/content/10.1101/467878v1)]
-
+[SoCal ML Symposium '19](https://sites.google.com/view/socalml2019)  [[Preprint]](https://www.biorxiv.org/content/10.1101/467878v1)  
 <img src="/images/mouse_academy.png"  width="286"  height="150">
