@@ -38,8 +38,7 @@ Previous to Caltech in my undergrad, I worked with various organizations interna
 Matthew  Rosenberg\*, Tony Zhang\*, Pietro Perona, Markus Meister  
 In Submission. [[Preprint](https://www.biorxiv.org/content/10.1101/2021.01.14.426746v1)]
 
-![](/images/maze_models.png)
-<img src="/images/maze_models.png"  width="120" height="120">
+<img src="/images/maze_models.png"  width="200" height="120">
 
 **Semi-Supervised Audio Representation Learning for Modeling Beehive Strengths**  
 Tony Zhang, Szymon Zmyslony, Sergei Nozdrenkov, Matthew Smith, Brandon Hopkins  
