@@ -46,7 +46,8 @@ Tony Zhang, Szymon Zmyslony, Sergei Nozdrenkov, Matthew Smith, Brandon Hopkins
 
 **Rapid learning and efficient exploration by mice navigating a complex maze**  
 Matthew  Rosenberg\*, Tony Zhang\*, Pietro Perona, Markus Meister  
-[NeurIPS 2019 Biological and Artificial Reinforcement Learning Workshop](https://sites.google.com/view/biologicalandartificialrl/home?authuser=0)
+[NeurIPS 2019 Biological and Artificial Reinforcement Learning Workshop](https://sites.google.com/view/biologicalandartificialrl/home?authuser=0)  
+<img src="/images/neurips.png"  width="197"  height="150">
 
 **Mouse Academy: high-throughput automated training and trial-by-trial behavioral analysis during learning**  
 Mu Qiao, Tony Zhang, Cristina Segalin, Sarah Sam, Pietro Perona, Markus Meister  
