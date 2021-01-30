@@ -33,25 +33,25 @@ Previous to Caltech in my undergrad, I worked with various organizations interna
 
 ## Publications
 
-![](/images/mouse_academy.png)
 
 **Mice in a labyrinth: Rapid learning, sudden insight, and efficient exploration**  
 Matthew  Rosenberg\*, Tony Zhang\*, Pietro Perona, Markus Meister  
 In Submission. [[Preprint](https://www.biorxiv.org/content/10.1101/2021.01.14.426746v1)]
 
-![](/images/bee.png)
+![](/images/maze_models.png)
 
 **Semi-Supervised Audio Representation Learning for Modeling Beehive Strengths**  
 Tony Zhang, Szymon Zmyslony, Sergei Nozdrenkov, Matthew Smith, Brandon Kingsley Hopkins  
 In Submission.
 
+![](/images/bee.png)
+
 **Rapid learning and efficient exploration by mice navigating a complex maze**  
 Matthew  Rosenberg\*, Tony Zhang\*, Pietro Perona, Markus Meister  
 [NeurIPS '19 Biological and Artificial Reinforcement Learning Workshop](https://sites.google.com/view/biologicalandartificialrl/home?authuser=0)
-
-![](/images/maze_models.png)
 
 **Mouse Academy: high-throughput automated training and trial-by-trial behavioral analysis during learning**  
 Mu Qiao, Tony Zhang, Cristina Segalin, Sarah Sam, Pietro Perona, Markus Meister  
 [SoCal ML Symposium '19](https://sites.google.com/view/socalml2019)  [[Preprint](https://www.biorxiv.org/content/10.1101/467878v1)]
 
+![](/images/mouse_academy.png)
