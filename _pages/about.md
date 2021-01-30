@@ -55,4 +55,4 @@ Matthew  Rosenberg\*, Tony Zhang\*, Pietro Perona, Markus Meister
 Mu Qiao, Tony Zhang, Cristina Segalin, Sarah Sam, Pietro Perona, Markus Meister  
 [SoCal ML Symposium '19](https://sites.google.com/view/socalml2019)  [[Preprint](https://www.biorxiv.org/content/10.1101/467878v1)]
 
-<img src="/images/bee.png"  width="286"  height="150">
+<img src="/images/mouse_academy.png"  width="286"  height="150">
