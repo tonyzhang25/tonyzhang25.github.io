@@ -20,15 +20,15 @@ Previous to Caltech in my undergrad, I worked with various organizations interna
 
 ## News
 
-[1/2021] Our full report, [Mice in a labyrinth: Rapid learning, sudden insight, and efficient exploration](https://www.biorxiv.org/content/10.1101/2021.01.14.426746v1), is out on Arxiv.
+**1/2021**: Our first full report characterizing and modeling [few-shot learning and efficient exploration in a complex hierarchical maze](https://www.biorxiv.org/content/10.1101/2021.01.14.426746v1) is out on arxiv.
 
-[9/2020] I've returned to Caltech full-time while remaining the ML Lead for a confidential Google X project on the side.
+**9/2020** I've returned to Caltech full-time while remaining the ML Lead for a confidential Google X project part-time.
 
-[6/2020] I joined Google X as an AI Resident, continuing work on ML for behavior with multiple modalities.
+**6/2020** I joined Google X as a AI Resident, continuing work on ML for behavior with multiple modalities.
 
-[10/2019] Our work on rapid learning and intrinsic motivated exploration in complex maze environments for mice has been accepted to the [NeurIPS Biological and Artificial Reinforcement Learning workshop](https://sites.google.com/view/biologicalandartificialrl)
+**10/2019** Our work on rapid learning and intrinsic motivated exploration in complex maze environments for mice has been accepted to the [NeurIPS Biological and Artificial Reinforcement Learning workshop](https://sites.google.com/view/biologicalandartificialrl)
 
-[3/2019] I presented our work on [automated training and iterative latent strategy inference](https://www.biorxiv.org/content/10.1101/467878v1) at the [SoCal Machine Learning Symposium](https://sites.google.com/view/socalml2019)
+**3/2019** I presented our work on [automated training and iterative latent strategy inference](https://www.biorxiv.org/content/10.1101/467878v1) at the [SoCal Machine Learning Symposium](https://sites.google.com/view/socalml2019)
 
 
 ## Publications
@@ -36,7 +36,7 @@ Previous to Caltech in my undergrad, I worked with various organizations interna
 
 **Mice in a labyrinth: Rapid learning, sudden insight, and efficient exploration**  
 Matthew  Rosenberg\*, Tony Zhang\*, Pietro Perona, Markus Meister  
-In Submission. [[Preprint](https://www.biorxiv.org/content/10.1101/2021.01.14.426746v1)]
+In Submission. [Preprint](https://www.biorxiv.org/content/10.1101/2021.01.14.426746v1){: .btn}
 
 <img src="/images/maze_models.png"  width="367"  height="150">
 
