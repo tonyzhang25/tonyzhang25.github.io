@@ -38,14 +38,13 @@ Previous to Caltech in my undergrad, I worked with various organizations interna
 Matthew  Rosenberg\*, Tony Zhang\*, Pietro Perona, Markus Meister  
 In Submission. [[Preprint](https://www.biorxiv.org/content/10.1101/2021.01.14.426746v1)]
 
-<img src="/images/maze_models.png"  height="150">
+<img src="/images/maze_models.png"  width="367"  height="150">
 
 **Semi-Supervised Audio Representation Learning for Modeling Beehive Strengths**  
 Tony Zhang, Szymon Zmyslony, Sergei Nozdrenkov, Matthew Smith, Brandon Hopkins  
 In Submission.
 
-![](/images/bee.png)
-
+<img src="/images/bee.png"  width="258"  height="150">
 
 **Rapid learning and efficient exploration by mice navigating a complex maze**  
 Matthew  Rosenberg\*, Tony Zhang\*, Pietro Perona, Markus Meister  
@@ -56,4 +55,4 @@ Matthew  Rosenberg\*, Tony Zhang\*, Pietro Perona, Markus Meister
 Mu Qiao, Tony Zhang, Cristina Segalin, Sarah Sam, Pietro Perona, Markus Meister  
 [SoCal ML Symposium '19](https://sites.google.com/view/socalml2019)  [[Preprint](https://www.biorxiv.org/content/10.1101/467878v1)]
 
-![](/images/mouse_academy.png)
+<img src="/images/bee.png"  width="286"  height="150">
