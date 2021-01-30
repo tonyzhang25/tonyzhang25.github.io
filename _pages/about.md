@@ -42,7 +42,7 @@ In Submission. [[Preprint](https://www.biorxiv.org/content/10.1101/2021.01.14.42
 
 
 **Semi-Supervised Audio Representation Learning for Modeling Beehive Strengths**  
-Tony Zhang, Szymon Zmyslony, Sergei Nozdrenkov, Matthew Smith, Brandon Kingsley Hopkins  
+Tony Zhang, Szymon Zmyslony, Sergei Nozdrenkov, Matthew Smith, Brandon Hopkins  
 In Submission.
 
 ![](/images/bee.png)
@@ -51,6 +51,7 @@ In Submission.
 **Rapid learning and efficient exploration by mice navigating a complex maze**  
 Matthew  Rosenberg\*, Tony Zhang\*, Pietro Perona, Markus Meister  
 [NeurIPS '19 Biological and Artificial Reinforcement Learning Workshop](https://sites.google.com/view/biologicalandartificialrl/home?authuser=0)
+
 
 **Mouse Academy: high-throughput automated training and trial-by-trial behavioral analysis during learning**  
 Mu Qiao, Tony Zhang, Cristina Segalin, Sarah Sam, Pietro Perona, Markus Meister  
