@@ -45,7 +45,7 @@ Matthew  Rosenberg\*, Tony Zhang\*, Pietro Perona, Markus Meister
 
 **Semi-Supervised Audio Representation Learning for Modeling Beehive Strengths**  
 Tony Zhang, Szymon Zmyslony, Sergei Nozdrenkov, Matthew Smith, Brandon Hopkins  
-[[Arxiv]](https://arxiv.org/abs/2105.10536). 
+[Arxiv](https://arxiv.org/abs/2105.10536)<br/>
 <img src="/images/bee.png"  width="258"  height="150">
 
 **Rapid learning and efficient exploration by mice navigating a complex maze**  
