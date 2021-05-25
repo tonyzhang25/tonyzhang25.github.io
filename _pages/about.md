@@ -34,8 +34,8 @@ Previous to Caltech in my undergrad, I worked with various organizations interna
 ## Publications
 
 **Long-Term Tracking and Classification of Invidual Behavior in Bumble Bee Colonies**  
-Matthew Smith, August Easton-Calabria, Tony Zhang, Szymon Zmyslony, Jessie Thuma, Kayleigh Cronin Cassandra Pasadyn, Benjamin de Visort, James Crall
-Journal of Artificial Life and Robotics
+Matthew Smith, August Easton-Calabria, Tony Zhang, Szymon Zmyslony, Jessie Thuma, Kayleigh Cronin Cassandra Pasadyn, Benjamin de Visort, James Crall  
+Journal of Artificial Life and Robotics  
 <!-- <img src="/images/bee.png"  width="258"  height="150"> -->
 
 **Mice in a labyrinth: Rapid learning, sudden insight, and efficient exploration**  
@@ -45,7 +45,7 @@ Matthew  Rosenberg\*, Tony Zhang\*, Pietro Perona, Markus Meister
 
 **Semi-Supervised Audio Representation Learning for Modeling Beehive Strengths**  
 Tony Zhang, Szymon Zmyslony, Sergei Nozdrenkov, Matthew Smith, Brandon Hopkins  
-[Arxiv](https://arxiv.org/abs/2105.10536)<br/>
+[Arxiv](https://arxiv.org/abs/2105.10536)  
 <img src="/images/bee.png"  width="258"  height="150">
 
 **Rapid learning and efficient exploration by mice navigating a complex maze**  
