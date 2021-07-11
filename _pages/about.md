@@ -40,7 +40,7 @@ Journal of Artificial Life and Robotics
 
 **Mice in a labyrinth: Rapid learning, sudden insight, and efficient exploration**  
 Matthew  Rosenberg\*, Tony Zhang\*, Pietro Perona, Markus Meister  
-*In Submission.* [[Preprint]](https://www.biorxiv.org/content/10.1101/2021.01.14.426746v1).  
+[[eLife]](https://elifesciences.org/articles/66175) [[Arxiv]](https://www.biorxiv.org/content/10.1101/2021.01.14.426746v1).  
 <img src="/images/maze_models.png"  width="367"  height="150">
 
 **Semi-Supervised Audio Representation Learning for Modeling Beehive Strengths**  
