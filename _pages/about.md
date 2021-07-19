@@ -20,6 +20,8 @@ Previous to Caltech in my undergrad, I worked with various organizations interna
 
 ## News
 
+**7/2021**:  Our paper on fast sequential learning has been published in [eLife](https://elifesciences.org/articles/66175).
+
 **1/2021**:  Our first full report characterizing and modeling [few-shot learning and efficient exploration in a complex hierarchical maze](https://www.biorxiv.org/content/10.1101/2021.01.14.426746v1) is out on arxiv.
 
 **9/2020**: I've returned to Caltech full-time while remaining the ML Lead for a confidential Google X project part-time.
@@ -55,5 +57,5 @@ Matthew  Rosenberg\*, Tony Zhang\*, Pietro Perona, Markus Meister
 
 **Mouse Academy: high-throughput automated training and trial-by-trial behavioral analysis during learning**  
 Mu Qiao, Tony Zhang, Cristina Segalin, Sarah Sam, Pietro Perona, Markus Meister  
-[[SoCal ML Symposium '19]](https://sites.google.com/view/socalml2019)  [[Preprint]](https://www.biorxiv.org/content/10.1101/467878v1)  
+[[SoCal ML Symposium '19]](https://sites.google.com/view/socalml2019)  [[Arxiv]](https://www.biorxiv.org/content/10.1101/467878v1)  
 <img src="/images/mouse_academy.png"  width="286"  height="150">
