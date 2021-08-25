@@ -20,6 +20,8 @@ Previous to Caltech in my undergrad, I worked with various organizations interna
 
 ## News
 
+**8/2021**:  Caltech featured our research on the homepage! Read the [story](https://www.caltech.edu/about/news/mice-can-learn-much-faster-than-previously-thought) or watch the [interview / video](https://www.youtube.com/watch?v=RqoCTb2_6oM) to learn about the inspirations behind the work.
+
 **7/2021**:  Our paper on fast sequential learning has been published in [eLife](https://elifesciences.org/articles/66175).
 
 **1/2021**:  Our first full report characterizing and modeling [few-shot learning and efficient exploration in a complex hierarchical maze](https://www.biorxiv.org/content/10.1101/2021.01.14.426746v1) is out on arxiv.
