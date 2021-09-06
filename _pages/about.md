@@ -20,6 +20,8 @@ Previous to Caltech in my undergrad, I worked with various organizations interna
 
 ## News
 
+**9/2021**:  I'll be in Ann Arbor from 9/30 - 10/2 for an invited talk about our recent maze work at the [Annual Meeting of the Pavlovian Society](https://campus.albion.edu/pavlovian/meetings/meeting-schedule-2021/).
+
 **8/2021**:  Caltech featured our research on the homepage! Read the [story](https://www.caltech.edu/about/news/mice-can-learn-much-faster-than-previously-thought) or watch the [interview](https://www.youtube.com/watch?v=RqoCTb2_6oM) to learn more about the inspirations behind the work.
 
 **7/2021**:  Our paper on fast sequential learning has been published in [eLife](https://elifesciences.org/articles/66175).
