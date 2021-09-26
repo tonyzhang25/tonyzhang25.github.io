@@ -42,31 +42,31 @@ Previous to Caltech in my undergrad, I worked with various organizations interna
 ## Publications
 
 **Endotaxis: A Universal Algorithm for Mapping, Goal-Learning, and Navigation**  
-Tony Zhang, Matthew Rosenberg, Pietro Perona, Markus Meister.  
+Tony Zhang, Matthew Rosenberg, Pietro Perona, Markus Meister. 2021.  
 [[Arxiv]](https://www.biorxiv.org/content/10.1101/2021.09.24.461751v1)  
 <img src="/images/endotaxis.png"  width="300"  height="150">
 
 **Long-Term Tracking and Classification of Invidual Behavior in Bumble Bee Colonies**  
-Matthew Smith, August Easton-Calabria, Tony Zhang, et al.  
+Matthew Smith, August Easton-Calabria, Tony Zhang, et al. 2021.  
 Journal of Artificial Life and Robotics  
 <!-- <img src="/images/bee.png"  width="258"  height="150"> -->
 
 **Mice in a labyrinth: Rapid learning, sudden insight, and efficient exploration**  
-Matthew  Rosenberg\*, Tony Zhang\*, Pietro Perona, Markus Meister  
+Matthew  Rosenberg\*, Tony Zhang\*, Pietro Perona, Markus Meister. 2021.  
 [[eLife]](https://elifesciences.org/articles/66175) [[Arxiv]](https://www.biorxiv.org/content/10.1101/2021.01.14.426746v1)  
 <img src="/images/maze_models.png"  width="367"  height="150">
 
 **Semi-Supervised Audio Representation Learning for Modeling Beehive Strengths**  
-Tony Zhang, Szymon Zmyslony, Sergei Nozdrenkov, Matthew Smith, Brandon Hopkins  
+Tony Zhang, Szymon Zmyslony, Sergei Nozdrenkov, Matthew Smith, Brandon Hopkins. 2021.  
 [[Arxiv]](https://arxiv.org/abs/2105.10536)  
 <img src="/images/bee.png"  width="258"  height="150">
 
 **Rapid learning and efficient exploration by mice navigating a complex maze**  
-Matthew  Rosenberg\*, Tony Zhang\*, Pietro Perona, Markus Meister  
-[[NeurIPS 2019 Bio & Artificial RL]](https://sites.google.com/view/biologicalandartificialrl/home?authuser=0)  
+Matthew  Rosenberg\*, Tony Zhang\*, Pietro Perona, Markus Meister. 2019.  
+[[NeurIPS Bio & Artificial RL]](https://sites.google.com/view/biologicalandartificialrl/home?authuser=0)  
 <img src="/images/neurips.png"  width="197"  height="150">
 
 **Mouse Academy: high-throughput automated training and trial-by-trial behavioral analysis during learning**  
-Mu Qiao, Tony Zhang, Cristina Segalin, Sarah Sam, Pietro Perona, Markus Meister  
+Mu Qiao, Tony Zhang, Cristina Segalin, Sarah Sam, Pietro Perona, Markus Meister. 2018.  
 [[SoCal ML Symposium '19]](https://sites.google.com/view/socalml2019)  [[Arxiv]](https://www.biorxiv.org/content/10.1101/467878v1)  
 <img src="/images/mouse_academy.png"  width="286"  height="150">
