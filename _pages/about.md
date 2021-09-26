@@ -44,7 +44,7 @@ Previous to Caltech in my undergrad, I worked with various organizations interna
 **Endotaxis: A Universal Algorithm for Mapping, Goal-Learning, and Navigation**  
 Tony Zhang, Matthew Rosenberg, Pietro Perona, Markus Meister.  
 [[Arxiv]](https://www.biorxiv.org/content/10.1101/2021.09.24.461751v1)  
-<!-- <img src="/images/endotaxis.png"  width="258"  height="150"> -->
+<!-- <img src="/images/endotaxis.png"  width="300"  height="150"> -->
 
 **Long-Term Tracking and Classification of Invidual Behavior in Bumble Bee Colonies**  
 Matthew Smith, August Easton-Calabria, Tony Zhang, et al.  
