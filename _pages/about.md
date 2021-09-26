@@ -20,6 +20,8 @@ Previous to Caltech in my undergrad, I worked with various organizations interna
 
 ## News
 
+**9/2021**:  Our latest preprint proposing a new theoretical model for sequential learning in mapping and navigation is out on [arxiv](https://www.biorxiv.org/content/10.1101/2021.09.24.461751v1).
+
 **9/2021**:  I'll be in Ann Arbor from 9/30 - 10/2 for an invited talk about our recent maze work at the [Annual Meeting of the Pavlovian Society](https://campus.albion.edu/pavlovian/meetings/meeting-schedule-2021/).
 
 **8/2021**:  Caltech featured our research on the homepage! Read the [story](https://www.caltech.edu/about/news/mice-can-learn-much-faster-than-previously-thought) or watch the [interview](https://www.youtube.com/watch?v=RqoCTb2_6oM) to learn more about the inspirations behind the work.
@@ -38,6 +40,11 @@ Previous to Caltech in my undergrad, I worked with various organizations interna
 
 
 ## Publications
+
+**Endotaxis: A Universal Algorithm for Mapping, Goal-Learning, and Navigation**  
+Tony Zhang, Matthew Rosenberg, Pietro Perona, Markus Meister.  
+[[Arxiv]](https://www.biorxiv.org/content/10.1101/2021.09.24.461751v1)  
+<!-- <img src="/images/endotaxis.png"  width="258"  height="150"> -->
 
 **Long-Term Tracking and Classification of Invidual Behavior in Bumble Bee Colonies**  
 Matthew Smith, August Easton-Calabria, Tony Zhang, et al.  
