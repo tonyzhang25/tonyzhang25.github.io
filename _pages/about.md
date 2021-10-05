@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in the [Caltech Computer Vision Lab](http://www.vision.caltech.edu), advised by [Pietro Perona](https://en.wikipedia.org/wiki/Pietro_Perona). I also collaborate with [Meister Lab](https://meisterlab.caltech.edu). My research focuses on sequential decision making in brains and machines. This involves topics spanning AI and naturalistic behavior, including computer vision, machine learning / reinforcement learning, systems neuroscience, and behavior modeling and prediction.
+I am a PhD Candidate in the [Caltech Computer Vision Lab](http://www.vision.caltech.edu), advised by [Pietro Perona](https://en.wikipedia.org/wiki/Pietro_Perona). I also collaborate with [Meister Lab](https://meisterlab.caltech.edu). My research focuses on sequential decision making in brains and machines. This involves topics spanning AI and naturalistic behavior, including computer vision, machine learning / reinforcement learning, systems neuroscience, and behavior modeling and prediction. I'll be starting as a ML Lead at Google X in 2022.
 
 Currently, I work on 1) understanding long-horizon decision making using graph-based mazes, 2) explainable ML models of complex behavior, and 3) deep learning for modeling biological organisms from multiple modalities. I believe we build better AI by learning about intelligence from its source. On the applied side, I am interested in problems that deal with spatiotemporal data and decision-making.
 
@@ -22,7 +22,7 @@ Previous to Caltech in my undergrad, I worked with various organizations interna
 
 **9/2021**:  Our latest preprint proposing a new theoretical model for sequential learning in mapping and navigation is out on [arxiv](https://www.biorxiv.org/content/10.1101/2021.09.24.461751v1).
 
-**9/2021**:  I'll be in Ann Arbor from 9/30 - 10/2 for an invited talk about our recent maze work at the [Annual Meeting of the Pavlovian Society](https://campus.albion.edu/pavlovian/meetings/meeting-schedule-2021/).
+**9/2021**:  I'll be in Ann Arbor from 9/30 - 10/2 for an invited talk about our recent maze work at the [Annual Meeting of the Pavlovian Society](https://pavlovian2021.org).
 
 **8/2021**:  Caltech featured our research on the homepage! Read the [story](https://www.caltech.edu/about/news/mice-can-learn-much-faster-than-previously-thought) or watch the [interview](https://www.youtube.com/watch?v=RqoCTb2_6oM) to learn more about the inspirations behind the work.
 
@@ -30,7 +30,7 @@ Previous to Caltech in my undergrad, I worked with various organizations interna
 
 **1/2021**:  Our first full report characterizing and modeling [few-shot learning and efficient exploration in a complex hierarchical maze](https://www.biorxiv.org/content/10.1101/2021.01.14.426746v1) is out on arxiv.
 
-**9/2020**: I've returned to Caltech full-time while remaining the ML Lead for a confidential Google X project part-time.
+**9/2020**: I've returned to Caltech full-time while remaining the ML Lead for a Google X project part-time.
 
 **6/2020**: I joined Google X as a AI Resident, continuing work on ML for behavior with multiple modalities.
 
@@ -48,7 +48,7 @@ Tony Zhang, Matthew Rosenberg, Pietro Perona, Markus Meister. 2021.
 
 **Long-Term Tracking and Classification of Invidual Behavior in Bumble Bee Colonies**  
 Matthew Smith, August Easton-Calabria, Tony Zhang, et al. 2021.  
-Journal of Artificial Life and Robotics  
+[DARS-SWARM 2021](https://www.swarm-systems.com/dars-swarm2021), Journal of Artificial Life and Robotics  
 <!-- <img src="/images/bee.png"  width="258"  height="150"> -->
 
 **Mice in a labyrinth: Rapid learning, sudden insight, and efficient exploration**  
