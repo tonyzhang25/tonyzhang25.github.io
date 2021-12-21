@@ -8,17 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in the [Caltech Computer Vision Lab](http://www.vision.caltech.edu), advised by [Pietro Perona](https://en.wikipedia.org/wiki/Pietro_Perona). I also collaborate with [Meister Lab](https://meisterlab.caltech.edu). My research focuses on sequential decision making in brains and machines. This involves topics spanning AI and naturalistic behavior, including computer vision, machine learning / reinforcement learning, systems neuroscience, and behavior modeling and prediction. I'll be starting as a ML Lead at Google X in 2022.
+I am a Machine Learning Research Lead at Google X for a project in AI for ethology in sustainability. My team works on a range of problems, including sensing, ML for sensing and behavior, and optimal control. We collaborate with leading academic labs.
 
-Currently, I work on 1) understanding long-horizon decision making using graph-based mazes, 2) explainable ML models of complex behavior, and 3) deep learning for modeling biological organisms from multiple modalities. I believe we build better AI by learning about intelligence from its source. On the applied side, I am interested in problems that deal with spatiotemporal data and decision-making.
+Formerly, I obtained my PhD from the [Caltech Computer Vision Lab](http://www.vision.caltech.edu), where I was advised by [Pietro Perona](https://en.wikipedia.org/wiki/Pietro_Perona) and collaborated with [Meister Lab](https://meisterlab.caltech.edu). My research focused on sequential decision making in brains and machines. This involved topics spanning AI and naturalistic behavior, including computer vision, machine learning / reinforcement learning, systems neuroscience, and behavior modeling and prediction.
 
-Previous to Caltech in my undergrad, I worked with various organizations internationally in advancing public policy, including the [WHO](https://www.who.int), and theoretical neuroscience, as a [Loran Scholar](https://loranscholar.ca).
+Previous to Caltech, I worked with various organizations internationally in advancing environmental policy, including the [WHO](https://www.who.int), and theoretical neuroscience, as a [Loran Scholar](https://loranscholar.ca).
 
-[Get in touch](mailto:tonyzhang@caltech.edu).
-
+[Get in touch](mailto:tonyzhang25@hotmail.com).
 
 
 ## News
+
+**11/2021**:  I have defended my thesis and will be starting full-time at X in Jan 2022.
 
 **9/2021**:  Our latest preprint proposing a new theoretical model for sequential learning in mapping and navigation is out on [arxiv](https://www.biorxiv.org/content/10.1101/2021.09.24.461751v1).
 
