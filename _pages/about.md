@@ -44,15 +44,15 @@ Previous to Caltech, I worked with various organizations internationally in adva
 
 ## Publications
 
+**Long-term tracking and quantification of individual behavior in bumble bee colonies**  
+Matthew Smith, August Easton-Calabria, Tony Zhang, et al. 2022.  
+[[Artificial Life and Robotics]](https://link.springer.com/article/10.1007/s10015-022-00762-x) [[DARS-SWARM 2021]](https://www.swarm-systems.com/dars-swarm2021)
+<!-- <img src="/images/bumblebee.png"  width="258"  height="150"> -->
+
 **Endotaxis: A Universal Algorithm for Mapping, Goal-Learning, and Navigation**  
 Tony Zhang, Matthew Rosenberg, Pietro Perona, Markus Meister. 2021.  
 [[Arxiv]](https://www.biorxiv.org/content/10.1101/2021.09.24.461751v1)  
 <img src="/images/endotaxis.png"  width="300"  height="150">
-
-**Long-term tracking and quantification of individual behavior in bumble bee colonies**  
-Matthew Smith, August Easton-Calabria, Tony Zhang, et al. 2021.  
-[[Artificial Life and Robotics]](https://link.springer.com/article/10.1007/s10015-022-00762-x) [[DARS-SWARM 2021]](https://www.swarm-systems.com/dars-swarm2021)
-<!-- <img src="/images/bumblebee.png"  width="258"  height="150"> -->
 
 **Mice in a labyrinth: Rapid learning, sudden insight, and efficient exploration**  
 Matthew  Rosenberg\*, Tony Zhang\*, Pietro Perona, Markus Meister. 2021.  
