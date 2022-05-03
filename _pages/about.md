@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Machine Learning Research Lead at Google X for a project in AI for ethology in sustainability. My team works on a range of problems, including sensing, ML for sensing and behavior, and optimal control. We collaborate with leading academic labs.
+I am a Machine Learning Research Lead at Google X for a project in AI for ethology / ecology. My team works on a range of problems, including sensing, ML for sensing and behavior, and optimal control. We collaborate with leading academic labs.
 
 Formerly, I obtained my PhD from the [Caltech Computer Vision Lab](http://www.vision.caltech.edu), where I was advised by [Pietro Perona](https://en.wikipedia.org/wiki/Pietro_Perona) and collaborated with [Meister Lab](https://meisterlab.caltech.edu). My research focused on sequential decision making in brains and machines. This involved topics spanning AI and naturalistic behavior, including computer vision, machine learning / reinforcement learning, systems neuroscience, and behavior modeling and prediction.
 
@@ -18,6 +18,8 @@ Previous to Caltech, I worked with various organizations internationally in adva
 
 
 ## News
+
+**5/2022**:  Our [new bumble bee behavior paper](https://link.springer.com/article/10.1007/s10015-022-00762-x), the result of a collaboration between Google X and the [Crall Lab](https://www.crall-lab.com/), is published in the Journal of Artificial Life and Robotics.
 
 **11/2021**:  I have defended my thesis and will be starting full-time at X in Jan 2022.
 
@@ -47,10 +49,10 @@ Tony Zhang, Matthew Rosenberg, Pietro Perona, Markus Meister. 2021.
 [[Arxiv]](https://www.biorxiv.org/content/10.1101/2021.09.24.461751v1)  
 <img src="/images/endotaxis.png"  width="300"  height="150">
 
-**Long-Term Tracking and Classification of Invidual Behavior in Bumble Bee Colonies**  
+**Long-term tracking and quantification of individual behavior in bumble bee colonies**  
 Matthew Smith, August Easton-Calabria, Tony Zhang, et al. 2021.  
-[DARS-SWARM 2021](https://www.swarm-systems.com/dars-swarm2021), Journal of Artificial Life and Robotics  
-<!-- <img src="/images/bee.png"  width="258"  height="150"> -->
+[[Artificial Life and Robotics]](https://link.springer.com/article/10.1007/s10015-022-00762-x) [[DARS-SWARM 2021]](https://www.swarm-systems.com/dars-swarm2021), Journal of Artificial Life and Robotics  
+<!-- <img src="/images/bumblebee.png"  width="258"  height="150"> -->
 
 **Mice in a labyrinth: Rapid learning, sudden insight, and efficient exploration**  
 Matthew  Rosenberg\*, Tony Zhang\*, Pietro Perona, Markus Meister. 2021.  
