@@ -21,7 +21,7 @@ Previous to Caltech, I worked with various organizations internationally in adva
 
 **5/2022**:  Our [new bumble bee behavior paper](https://link.springer.com/article/10.1007/s10015-022-00762-x), the result of a collaboration between Google X and the [Crall Lab](https://www.crall-lab.com/), is published in Springer's Artificial Life and Robotics.
 
-**11/2021**:  I have defended my thesis and will be starting full-time at X in Jan 2022.
+**11/2021**:  I defended my PhD thesis and will be starting full-time at X in Jan 2022.
 
 **9/2021**:  Our latest preprint proposing a new theoretical model for sequential learning in mapping and navigation is out on [arxiv](https://www.biorxiv.org/content/10.1101/2021.09.24.461751v1).
 
@@ -47,7 +47,7 @@ Previous to Caltech, I worked with various organizations internationally in adva
 **Long-term tracking and quantification of individual behavior in bumble bee colonies**  
 Matthew Smith, August Easton-Calabria, Tony Zhang, et al. 2022.  
 [[Artificial Life and Robotics]](https://link.springer.com/article/10.1007/s10015-022-00762-x) [[DARS-SWARM 2021]](https://www.swarm-systems.com/dars-swarm2021)
-<!-- <img src="/images/bumblebee.png"  width="258"  height="150"> -->
+<img src="/images/bumblebee.png"  width="459"  height="150">
 
 **Endotaxis: A Universal Algorithm for Mapping, Goal-Learning, and Navigation**  
 Tony Zhang, Matthew Rosenberg, Pietro Perona, Markus Meister. 2021.  
