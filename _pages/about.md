@@ -8,16 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a Machine Learning Research Lead at Google X for a project in AI for ethology / ecology. My team works on a range of problems, including sensing, ML for sensing and behavior, and optimal control. We collaborate with leading academic labs.
+Venture-backed AI startup founder. We are a team of AI pioneers from top AI labs (Google X + Brain, Unity, BAIR) inventing a new type of AI capable of superhuman spatial reasoning by building a cognition-inspired world model. Want to learn more? Email me at tony@tera.earth.
 
-Formerly, I obtained my PhD from the [Caltech Computer Vision Lab](http://www.vision.caltech.edu), where I was advised by [Pietro Perona](https://en.wikipedia.org/wiki/Pietro_Perona) and collaborated with [Meister Lab](https://meisterlab.caltech.edu). My research focused on sequential decision making in brains and machines. This involved topics spanning AI and naturalistic behavior, including computer vision, machine learning / reinforcement learning, systems neuroscience, and behavior modeling and prediction.
+Prior, I was a Machine Learning Lead at Google X for a project in geospatial AI. My team of researchers developed novel AI models and algorithms for solving a range of problems, including sensing, prediction, and optimal control, and explored commercial opportunities. We collaborated with leading academic labs.
+
+Before that, I obtained my PhD from the [Caltech Computer Vision Lab](http://www.vision.caltech.edu), where I was advised by [Pietro Perona](https://en.wikipedia.org/wiki/Pietro_Perona) and collaborated with [Meister Lab](https://meisterlab.caltech.edu). I was obsessed with replicating the general spatial reasoning capabilities of real brains in machines. This involved topics spanning graph search and neural theory, including computer vision, reinforcement learning, and theoretical neuroscience.
 
 Previous to Caltech, I worked with various organizations internationally in advancing environmental policy, including the [WHO](https://www.who.int), and theoretical neuroscience, as a [Loran Scholar](https://loranscholar.ca).
 
-[Get in touch](mailto:tonyzhang25@hotmail.com).
+[Get in touch](mailto:tony@tera.earth).
 
 
 ## News
+
+**7/2023**:  I left Google X to invent a new type of AI capable of spatial reasoning, a dimension sorely lacking in foundation models today.
 
 **5/2022**:  Our [new bumble bee behavior paper](https://link.springer.com/article/10.1007/s10015-022-00762-x), the result of a collaboration between Google X and the [Crall Lab](https://www.crall-lab.com/), is published in Springer's Artificial Life and Robotics.
 
